@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\bin\Debug\net8.0\BaiTap_GU1-W05_DuAn.exe
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\bin\Debug\net8.0\BaiTap_GU1-W05_DuAn.deps.json
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\bin\Debug\net8.0\BaiTap_GU1-W05_DuAn.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\bin\Debug\net8.0\BaiTap_GU1-W05_DuAn.dll
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\bin\Debug\net8.0\BaiTap_GU1-W05_DuAn.pdb
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\BaiTap_GU1-W05_DuAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\BaiTap_GU1-W05_DuAn.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\BaiTap_GU1-W05_DuAn.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\BaiTap_GU1-W05_DuAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\BaiTap_GU1-W05_DuAn.dll
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\refint\BaiTap_GU1-W05_DuAn.dll
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\BaiTap_GU1-W05_DuAn.pdb
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\BaiTap_GU1-W05_DuAn.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\SnakeProgram\BaiTap_GU1-W05_DuAn\obj\Debug\net8.0\ref\BaiTap_GU1-W05_DuAn.dll
